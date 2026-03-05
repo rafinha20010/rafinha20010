@@ -65,19 +65,6 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 ---
 
-## 📊 Estatísticas do Conjurador
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=7B2FBE&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha20010&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafinha20010&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff" />
-</div>
-
----
-
 ## 🧙 Aliados — Irmãos de Guilda
 
 <div align="center">
