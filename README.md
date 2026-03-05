@@ -1,6 +1,50 @@
-<!-- HEADER -->
+<!-- HEADER SVG INLINE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=SANCHES&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Feiticeiro%20do%20Código%20✦%20React%20%26%20Next.js&descAlignY=68&descColor=d4aaff" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0117"/>
+      <stop offset="50%" style="stop-color:#2e0057"/>
+      <stop offset="100%" style="stop-color:#0d0117"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7B2FBE;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font-family: Georgia, serif; font-size: 58px; font-weight: bold; fill: #ffffff; filter: url(#glow); }
+      .sub { font-family: Georgia, serif; font-size: 17px; fill: #d4aaff; letter-spacing: 3px; }
+      .wave { animation: waveMove 4s ease-in-out infinite alternate; }
+      @keyframes waveMove { 0% { d: path("M0,160 C150,110 300,190 450,150 C600,110 750,180 900,140 L900,200 L0,200 Z"); } 100% { d: path("M0,150 C150,190 300,110 450,160 C600,200 750,120 900,155 L900,200 L0,200 Z"); } }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)"/>
+  <!-- Stars -->
+  <circle cx="50" cy="30" r="1.5" fill="#d4aaff" opacity="0.8"/>
+  <circle cx="130" cy="60" r="1" fill="#A855F7" opacity="0.6"/>
+  <circle cx="220" cy="20" r="2" fill="#ffffff" opacity="0.5"/>
+  <circle cx="400" cy="40" r="1.5" fill="#d4aaff" opacity="0.7"/>
+  <circle cx="600" cy="25" r="1" fill="#A855F7" opacity="0.8"/>
+  <circle cx="750" cy="55" r="2" fill="#ffffff" opacity="0.4"/>
+  <circle cx="860" cy="30" r="1.5" fill="#d4aaff" opacity="0.6"/>
+  <circle cx="310" cy="70" r="1" fill="#A855F7" opacity="0.5"/>
+  <circle cx="820" cy="70" r="1" fill="#ffffff" opacity="0.6"/>
+  <!-- Title -->
+  <text x="450" y="105" text-anchor="middle" class="title">✦ SANCHES ✦</text>
+  <!-- Subtitle -->
+  <text x="450" y="135" text-anchor="middle" class="sub">Feiticeiro do Código · React &amp; Next.js</text>
+  <!-- Wave bottom -->
+  <path class="wave" d="M0,160 C150,110 300,190 450,150 C600,110 750,180 900,140 L900,200 L0,200 Z" fill="url(#waveGrad)" opacity="0.9"/>
+</svg>
 </div>
 
 <!-- TYPING -->
@@ -102,7 +146,31 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 </div>
 
-<!-- FOOTER -->
+<!-- FOOTER SVG INLINE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=120&section=footer&animation=fadeIn" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0117"/>
+      <stop offset="50%" style="stop-color:#2e0057"/>
+      <stop offset="100%" style="stop-color:#0d0117"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6D28D9"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#7B2FBE"/>
+    </linearGradient>
+    <style>
+      .wave2 { animation: waveMove2 4s ease-in-out infinite alternate; }
+      @keyframes waveMove2 { 0% { d: path("M0,60 C150,30 300,80 450,50 C600,20 750,70 900,40 L900,0 L0,0 Z"); } 100% { d: path("M0,45 C150,75 300,30 450,60 C600,85 750,35 900,55 L900,0 L0,0 Z"); } }
+    </style>
+  </defs>
+  <rect width="900" height="120" fill="url(#bgGrad2)"/>
+  <circle cx="100" cy="90" r="1.5" fill="#d4aaff" opacity="0.7"/>
+  <circle cx="300" cy="100" r="1" fill="#A855F7" opacity="0.6"/>
+  <circle cx="500" cy="85" r="2" fill="#ffffff" opacity="0.4"/>
+  <circle cx="700" cy="95" r="1.5" fill="#d4aaff" opacity="0.6"/>
+  <circle cx="850" cy="90" r="1" fill="#A855F7" opacity="0.7"/>
+  <path class="wave2" d="M0,60 C150,30 300,80 450,50 C600,20 750,70 900,40 L900,0 L0,0 Z" fill="url(#waveGrad2)" opacity="0.9"/>
+</svg>
 </div>
