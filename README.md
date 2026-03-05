@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <div align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=220&section=header&text=SANCHES&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Mago+Dev+%7C+Game+Designer+em+Formacao&descSize=20&descAlignY=62&descColor=e9d5ff" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=220&section=header&text=SANCHES&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=✦ Mago Dev · Game Designer em Formação ✦&descSize=20&descAlignY=62&descColor=e9d5ff" />
 </div>
 
 <!-- TYPING -->
