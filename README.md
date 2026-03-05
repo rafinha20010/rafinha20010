@@ -32,7 +32,7 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 ## 🪄 Arsenal Arcano — Tecnologias
 
-<h3 align="left">🌐 Front-End</h3>
+<h3 align="center">🌐 Front-End</h3>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 </div>
 
-<h3 align="left">⚙️ Ferramentas & Forja</h3>
+<h3 align="center">⚙️ Ferramentas & Forja</h3>
 
 <div align="center">
 
