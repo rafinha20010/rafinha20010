@@ -1,16 +1,108 @@
-## Hi there 👋
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=SANCHES&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Feiticeiro%20do%20Código%20✦%20React%20%26%20Next.js&descAlignY=68&descColor=d4aaff" />
+</div>
 
-<!--
-**rafinha20010/rafinha20010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Conjurando+interfaces+com+React;Dominando+os+arcanos+do+Next.js;Feitiços+de+código+bem+escritos;O+grimório+do+dev+está+aberto" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔮 O Grimório — ✦ Sobre Mim
+
+> *"Todo grande feiticeiro sabe que o verdadeiro poder está na lógica por trás do encantamento."*
+
+Invoco **componentes** com React e conjuro **rotas e APIs** com Next.js.  
+Cada projeto é um novo ritual — moldado com precisão, criatividade e propósito.
+
+```
+✦ Nome:      Sanches
+✦ Classe:    Mago Full Stack / Artesão de Interfaces
+✦ Dojo:      SENAI Shunji Nishimura — Pompeia/SP
+✦ Nível:     Aprendiz Avançado ↑
+✦ Foco:      React · Next.js · Front-End Arcano
+✦ Missão:    Transformar ideias em experiências digitais
+✦ Grimório:  Código limpo · UI poderosa · Lógica pura
+✦ Status:    🟣 Canalizando magia...
+```
+
+---
+
+## 🪄 Arsenal Arcano — Tecnologias
+
+### 🌐 Front-End
+
+![HTML5](https://img.shields.io/badge/HTML5-7B2FBE?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4C1D95?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ⚙️ Ferramentas & Forja
+
+![Git](https://img.shields.io/badge/GIT-7B2FBE?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-9333EA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-6D28D9?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 🌌 Atividade — Rastro de Magia
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafinha20010&bg_color=0d0117&color=A855F7&line=7B2FBE&point=ffffff&area=true&area_color=A855F7&hide_border=true" />
+</div>
+
+---
+
+## 📊 Estatísticas do Conjurador
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7&bg_color=0d0117&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha20010&layout=compact&theme=dark&hide_border=true&title_color=A855F7&bg_color=0d0117&text_color=ffffff" />
+</div>
+
+---
+
+## 🧙 Aliados — Irmãos de Guilda
+
+<div align="center">
+
+[![xToguia](https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117)](https://github.com/xToguia)
+
+</div>
+
+---
+
+## 🔗 Portais — Onde me Encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafinha20010)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafinha20010&color=A855F7&style=for-the-badge&label=✦+Visitantes" />
+</div>
+
+---
+
+<div align="center">
+
+```
+  🔮          ✦          🔮          ✦          🔮
+       "O código é o feitiço. A tela é o portal."
+  ✦          🔮          ✦          🔮          ✦
+```
+
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=120&section=footer&animation=fadeIn" />
+</div>
