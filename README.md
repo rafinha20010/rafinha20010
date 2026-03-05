@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=200&section=header&text=✦%20SANCHES%20✦&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Feiticeiro%20do%20Código%20·%20React%20%26%20Next.js&descSize=18&descAlignY=68&descColor=e9d5ff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=200&section=header&text=%E2%9C%A6%20SANCHES%20%E2%9C%A6&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Feiticeiro%20do%20C%C3%B3digo%20%C2%B7%20React%20%26%20Next.js&descSize=18&descAlignY=68&descColor=e9d5ff" />
 </div>
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Conjurando+interfaces+com+React;Dominando+os+arcanos+do+Next.js;Feitiços+de+código+bem+escritos;O+grimório+do+dev+está+aberto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Conjurando+interfaces+com+React;Dominando+os+arcanos+do+Next.js;Fei%C3%A7os+de+c%C3%B3digo+bem+escritos;O+grim%C3%B3rio+do+dev+est%C3%A1+aberto" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafinha20010&color=A855F7&style=for-the-badge&label=✦+Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=rafinha20010&color=A855F7&style=for-the-badge&label=%E2%9C%A6+Visitantes" />
 </div>
 
 ---
