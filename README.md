@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Conjurando+interfaces+com+React;Dominando+os+arcanos+do+Next.js;Feitiços+de+codigo+bem+escritos;O+grimorio+do+dev+esta+aberto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Conjurando+interfaces+com+React;Dominando+os+arcanos+do+Next.js;Feitiços+de+código+bem+escritos;O+grimório+do+dev+está+aberto" />
 </div>
 
 ---
