@@ -82,7 +82,9 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 <div align="center">
 
-[![xToguia](https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117)](https://github.com/xToguia)
+[![xToguia](https://img.shields.io/badge/xToguia-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xToguia)
+[![Thspli](https://img.shields.io/badge/Thspli-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thspli)
+[![Leo-march](https://img.shields.io/badge/Leo--march-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leo-march)
 
 </div>
 
