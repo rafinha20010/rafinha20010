@@ -1,12 +1,6 @@
 <!-- HEADER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=160&section=header" />
-</div>
-
-<!-- TÍTULO SEPARADO DO WAVE -->
-<div align="center">
-  <h1>✦ SANCHES ✦</h1>
-  <p><em>Feiticeiro do Código · React &amp; Next.js</em></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=220&section=header&text=SANCHES&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Feiticeiro+do+Codigo+%7C+React+%26+Next.js&descSize=20&descAlignY=62&descColor=e9d5ff" />
 </div>
 
 <!-- TYPING -->
@@ -66,8 +60,8 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 ## 📊 Estatísticas do Conjurador
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7&bg_color=0d0117&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha20010&layout=compact&theme=dark&hide_border=true&title_color=A855F7&bg_color=0d0117&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=7B2FBE" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha20010&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff" />
 </div>
 
 ---
