@@ -1,6 +1,7 @@
 <!-- HEADER WAVE -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=180&section=header&text=SANCHES&fontSize=60&fontColor=ffffff&fontAlignY=45" />
+  <h3>✦ Mago Dev &nbsp;·&nbsp; Game Designer em Formação ✦</h3>
 </div>
 
 <!-- TYPING -->
