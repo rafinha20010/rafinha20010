@@ -34,18 +34,26 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 ### 🌐 Front-End
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-7B2FBE?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-4C1D95?style=for-the-badge&logo=next.js&logoColor=white)
 
+</div>
+
 ### ⚙️ Ferramentas & Forja
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/GIT-7B2FBE?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-9333EA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-6D28D9?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
 
 ---
 
