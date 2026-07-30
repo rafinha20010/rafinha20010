@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <div align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=220&section=header&text=SANCHES&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=%E2%9C%A6+Mago+Dev+%C2%B7+Game+Designer+em+Forma%C3%A7%C3%A3o+%E2%9C%A6&descSize=20&descAlignY=62&descColor=e9d5ff" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7B2FBE,100:A855F7&height=220&section=header&text=SANCHES&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=%E2%9C%A6+Desenvolvedor+%C2%B7+Full+Stack&descSize=20&descAlignY=62&descColor=e9d5ff" />
 </div>
 
 <!-- TYPING -->
@@ -19,13 +19,13 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 ```
 ✦ Nome:      Sanches
-✦ Classe:    Mago Full Stack / Artesão de Interfaces
+✦ Classe:    Dev Full Stack / Artesão de Interfaces
 ✦ Dojo:      SENAI Shunji Nishimura — Pompeia/SP
 ✦ Nível:     Aprendiz Avançado ↑
-✦ Foco:      React · Next.js · Front-End Arcano
+✦ Foco:      React · Next.js · Front-End 
 ✦ Missão:    Transformar ideias em experiências digitais
 ✦ Grimório:  Código limpo · UI poderosa · Lógica pura
-✦ Status:    🟣 Canalizando magia...
+✦ Status:    🟣 Procurando vaga em estágio...
 ```
 
 ---
