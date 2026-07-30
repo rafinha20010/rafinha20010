@@ -57,14 +57,6 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 ---
 
-## 🌌 Atividade — Rastro de Magia
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafinha20010&bg_color=0d0117&color=A855F7&line=7B2FBE&point=ffffff&area=true&area_color=A855F7&hide_border=true" />
-</div>
-
----
-
 ## 🧙 Aliados — Irmãos de Guilda
 
 <div align="center">
