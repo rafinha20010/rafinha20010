@@ -73,8 +73,8 @@ Cada projeto é um novo ritual — moldado com precisão, criatividade e propós
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sanches-peracine-9634b1397/)
+[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsanchesperacine@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafinha20010)
 
 </div>
